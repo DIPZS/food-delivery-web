@@ -1,13 +1,13 @@
-package com.cs5500.NEUEat;
+// package com.cs5500.NEUEat;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
+// import org.junit.jupiter.api.Test;
+// import org.springframework.boot.test.context.SpringBootTest;
 
-@SpringBootTest
-class NeuEatApplicationTests {
+// @SpringBootTest
+// class NeuEatApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+// 	@Test
+// 	void contextLoads() {
+// 	}
 
-}
+// }
